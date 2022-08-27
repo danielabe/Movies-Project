@@ -1,0 +1,12 @@
+server:
+  port: 8888
+
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: file:///C:/Users/danie/Documents/DANI/DH-IdeaProjects/BackendII/C10A-Movies-Intento5/gitRepo
+          searchPaths: configs
