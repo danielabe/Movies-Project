@@ -8,5 +8,5 @@ spring:
     config:
       server:
         git:
-          uri: file:///C:/Users/danie/Documents/DANI/DH-IdeaProjects/BackendII/C10A-Movies-Intento5/gitRepo
+          uri: https://github.com/danielabe/Movies-Project
           searchPaths: configs
