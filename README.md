@@ -50,6 +50,7 @@ Clone the project from a terminal
 Open the project in an IDE
 ## Import modules
 Add the following modules to the project structure:<br />
+<br />
 :cherry_blossom: catalog-service
 
 :cherry_blossom: config-server
@@ -62,6 +63,7 @@ Add the following modules to the project structure:<br />
 
 ## Run :rocket:
 Run the main classes in the following order:<br />
+<br />
 :cherry_blossom: config-server
 
 :cherry_blossom: eureka-server
